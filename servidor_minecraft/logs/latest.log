@@ -1,0 +1,221 @@
+[00:11:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[00:11:45] [ServerMain/INFO]: Loaded 1461 recipes
+[00:11:45] [ServerMain/INFO]: Loaded 1574 advancements
+[00:11:46] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[00:11:46] [Server thread/INFO]: Loading properties
+[00:11:46] [Server thread/INFO]: Default game type: SURVIVAL
+[00:11:46] [Server thread/INFO]: Generating keypair
+[00:11:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:11:46] [Server thread/INFO]: Using epoll channel type
+[00:11:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:11:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:11:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:11:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:11:46] [Server thread/INFO]: Preparing level "world"
+[00:11:46] [Server thread/INFO]: Loading 0 persistent chunks...
+[00:11:46] [Server thread/INFO]: Preparing spawn area: 100%
+[00:11:46] [Server thread/INFO]: Time elapsed: 14 ms
+[00:11:46] [Server thread/INFO]: Done (0.539s)! For help, type "help"
+[00:12:04] [Server thread/INFO]: trini[/100.90.135.52:57001] logged in with entity id 43 at (-92.02780265412872, 69.0, 1553.1867612225612)
+[00:12:04] [Server thread/INFO]: trini joined the game
+[00:12:11] [Server thread/INFO]: AnthonyTyH[/100.80.162.79:51504] logged in with entity id 271 at (-327.2287718752807, 76.0, 1423.8536800656568)
+[00:12:11] [Server thread/INFO]: AnthonyTyH joined the game
+[00:13:31] [Server thread/INFO]: VERGAMOTA[/100.108.233.61:57332] logged in with entity id 1150 at (-547.3544816018288, 82.0, 1856.0492000429056)
+[00:13:31] [Server thread/INFO]: VERGAMOTA joined the game
+[00:13:41] [Server thread/INFO]: VERGAMOTA lost connection: Disconnected
+[00:13:41] [Server thread/INFO]: VERGAMOTA left the game
+[00:33:17] [Server thread/INFO]: wendxli[/100.105.227.62:51161] logged in with entity id 9539 at (-543.3000000119209, 88.0, 1867.447983589573)
+[00:33:17] [Server thread/INFO]: wendxli joined the game
+[00:33:22] [Server thread/INFO]: VERGAMOTA[/100.108.233.61:64882] logged in with entity id 9915 at (-547.6331846007662, 82.0, 1856.2719272974352)
+[00:33:22] [Server thread/INFO]: VERGAMOTA joined the game
+[00:53:29] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=283, y=64, z=1208} ja{x=282, y=62, z=1208}
+[00:58:56] [Server thread/INFO]: trini has made the advancement [Getting an Upgrade]
+[01:19:43] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-344, y=96, z=1300} ja{x=-344, y=95, z=1299}
+[01:24:38] [Server thread/INFO]: trini has made the advancement [Monster Hunter]
+[01:34:50] [Server thread/INFO]: AnthonyTyH has made the advancement [Cover Me with Diamonds]
+[01:38:41] [Server thread/INFO]: [Not Secure] <VERGAMOTA> xaero-waypoint:Shared Location:S:1000:69:272:5:false:0:Internal-overworld
+[01:43:26] [Server thread/INFO]: AnthonyTyH lost connection: Disconnected
+[01:43:26] [Server thread/INFO]: AnthonyTyH left the game
+[02:05:50] [Server thread/INFO]: pabloprocrack[/100.90.22.110:50728] logged in with entity id 53967 at (-435.69999998807907, 63.0, 1141.699999988079)
+[02:05:50] [Server thread/INFO]: pabloprocrack joined the game
+[02:06:17] [Server thread/INFO]: VERGAMOTA lost connection: Disconnected
+[02:06:17] [Server thread/INFO]: VERGAMOTA left the game
+[02:09:46] [Server thread/INFO]: wendxli lost connection: Disconnected
+[02:09:46] [Server thread/INFO]: wendxli left the game
+[02:10:40] [Server thread/INFO]: pabloprocrack has made the advancement [Sweet Dreams]
+[02:49:31] [Server thread/INFO]: [Not Secure] <trini> A
+[02:51:28] [Server thread/INFO]: VERGAMOTA[/100.108.233.61:49810] logged in with entity id 66203 at (-345.7274336117321, 95.0, 1293.3778103378972)
+[02:51:28] [Server thread/INFO]: VERGAMOTA joined the game
+[02:51:31] [Server thread/INFO]: trini lost connection: Timed out
+[02:51:31] [Server thread/INFO]: trini left the game
+[02:51:31] [Server thread/WARN]: handleDisconnection() called twice
+[02:52:03] [Server thread/INFO]: trini[/100.90.135.52:58331] logged in with entity id 66436 at (-104.59924120213147, 89.0, 1394.2992609737921)
+[02:52:03] [Server thread/INFO]: trini joined the game
+[02:56:23] [Server thread/INFO]: trini fell from a high place
+[02:56:43] [Server thread/INFO]: [VERGAMOTA: Teleported trini to VERGAMOTA]
+[03:00:27] [Server thread/INFO]: trini has made the advancement [Acquire Hardware]
+[03:00:45] [Server thread/INFO]: wendxli[/100.105.227.62:62268] logged in with entity id 69728 at (-156.34871004109462, 63.0, 1374.7095737779046)
+[03:00:45] [Server thread/INFO]: wendxli joined the game
+[03:07:51] [Server thread/INFO]: trini was blown up by Creeper
+[03:30:54] [Server thread/INFO]: wendxli lost connection: Disconnected
+[03:30:54] [Server thread/INFO]: wendxli left the game
+[03:34:50] [Server thread/INFO]: wendxli[/100.105.227.62:59872] logged in with entity id 86592 at (-237.18965857120122, 99.875, 1337.1919449299307)
+[03:34:50] [Server thread/INFO]: wendxli joined the game
+[03:35:39] [Server thread/INFO]: [VERGAMOTA: Teleported VERGAMOTA to -267.500000, 63.500000, 1181.500000]
+[03:41:14] [Server thread/INFO]: wendxli lost connection: Disconnected
+[03:41:14] [Server thread/INFO]: wendxli left the game
+[03:45:31] [Server thread/INFO]: wendxli[/100.105.227.62:57556] logged in with entity id 91809 at (-237.69999998807907, 99.0, 1334.4247912607698)
+[03:45:31] [Server thread/INFO]: wendxli joined the game
+[03:48:37] [Server thread/INFO]: [VERGAMOTA: Teleported wendxli to VERGAMOTA]
+[04:01:24] [Server thread/INFO]: trini fell from a high place
+[04:02:48] [Server thread/INFO]: trini has made the advancement [Sweet Dreams]
+[04:09:15] [Server thread/INFO]: wendxli was shot by Skeleton
+[04:09:25] [Server thread/INFO]: [VERGAMOTA: Teleported wendxli to VERGAMOTA]
+[04:10:01] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-79, y=64, z=1404} ja{x=-79, y=62, z=1404}
+[04:27:35] [Server thread/INFO]: pabloprocrack lost connection: Disconnected
+[04:27:35] [Server thread/INFO]: pabloprocrack left the game
+[04:39:08] [Server thread/INFO]: [Not Secure] <VERGAMOTA> xaero-waypoint:saldia:S:-184:-25:923:6:false:0:Internal-overworld
+[04:42:30] [Server thread/INFO]: [VERGAMOTA: Teleported wendxli to VERGAMOTA]
+[04:51:11] [Server thread/INFO]: [VERGAMOTA: Created new objective [❤]]
+[04:51:16] [Server thread/INFO]: [VERGAMOTA: Set display slot list to show objective ❤]
+[04:51:47] [Server thread/INFO]: [VERGAMOTA: Created team [rojo]]
+[04:51:53] [Server thread/INFO]: [VERGAMOTA: Updated the color for team [rojo] to red]
+[04:52:02] [Server thread/INFO]: [VERGAMOTA: Added trini to team [rojo]]
+[04:52:51] [Server thread/INFO]: [VERGAMOTA: Created new objective [❤]]
+[04:52:56] [Server thread/INFO]: [VERGAMOTA: Removed objective [❤]]
+[04:53:32] [Server thread/INFO]: [VERGAMOTA: Created new objective [❤]]
+[04:53:38] [Server thread/INFO]: [VERGAMOTA: Set display slot list to show objective ❤]
+[04:54:46] [Server thread/INFO]: [VERGAMOTA: Removed objective [❤]]
+[04:54:52] [Server thread/INFO]: [VERGAMOTA: Created new objective [❤]]
+[04:54:58] [Server thread/INFO]: [VERGAMOTA: Set display slot list to show objective ❤]
+[04:55:04] [Server thread/INFO]: Jonazan06[/100.76.188.5:62445] logged in with entity id 121099 at (-162.43338897104127, 104.0, 1498.361391535762)
+[04:55:04] [Server thread/INFO]: Jonazan06 joined the game
+[04:55:23] [Server thread/INFO]: wendxli lost connection: Disconnected
+[04:55:23] [Server thread/INFO]: wendxli left the game
+[04:55:25] [Server thread/INFO]: wendxli[/100.105.227.62:64069] logged in with entity id 121231 at (-344.02301318345786, 96.0, 1305.2866605539919)
+[04:55:25] [Server thread/INFO]: wendxli joined the game
+[04:55:40] [Server thread/INFO]: trini lost connection: Disconnected
+[04:55:40] [Server thread/INFO]: [ADMIN] trini left the game
+[04:55:45] [Server thread/INFO]: trini[/100.90.135.52:64197] logged in with entity id 121368 at (-164.1074454104837, 104.0, 1485.2412680383445)
+[04:55:45] [Server thread/INFO]: [ADMIN] trini joined the game
+[04:56:42] [Server thread/INFO]: [VERGAMOTA: Created team [purple]]
+[04:56:58] [Server thread/INFO]: [VERGAMOTA: Updated the color for team [purple] to light_purple]
+[04:57:43] [Server thread/INFO]: [VERGAMOTA: Added [THERIAN] wendxli to team [rojo]]
+[04:57:54] [Server thread/INFO]: [VERGAMOTA: Added [RABIOSA] wendxli to team [purple]]
+[04:58:11] [Server thread/INFO]: [VERGAMOTA: Created team [green]]
+[04:58:34] [Server thread/INFO]: [VERGAMOTA: Updated the color for team [green] to green]
+[04:58:41] [Server thread/INFO]: [VERGAMOTA: Updated the color for team [green] to dark_green]
+[04:59:18] [Server thread/INFO]: [VERGAMOTA: Added [MR.SIDA] Jonazan06 to team [green]]
+[05:00:10] [Server thread/INFO]: [VERGAMOTA: Created team [White]]
+[05:00:22] [Server thread/INFO]: [VERGAMOTA: Updated the color for team [White] to white]
+[05:00:40] [Server thread/INFO]: [Not Secure] <[RABIOSA] wendxli> chikenlirul
+[05:01:05] [Server thread/INFO]: [Not Secure] <[MR.SIDA] Jonazan06> sanchez
+[05:01:07] [Server thread/INFO]: [Not Secure] <[RABIOSA] wendxli> chickenlirul
+[05:01:08] [Server thread/INFO]: [Not Secure] <[MR.SIDA] Jonazan06> jonathan
+[05:01:16] [Server thread/INFO]: [VERGAMOTA: Added [CHICKENLIRUL] VERGAMOTA to team [White]]
+[05:01:23] [Server thread/INFO]: VERGAMOTA lost connection: Disconnected
+[05:01:23] [Server thread/INFO]: [CHICKENLIRUL] VERGAMOTA left the game
+[05:01:25] [Server thread/INFO]: VERGAMOTA[/100.108.233.61:63102] logged in with entity id 123300 at (-347.31447685067445, 95.0, 1293.9788323880632)
+[05:01:25] [Server thread/INFO]: [CHICKENLIRUL] VERGAMOTA joined the game
+[05:03:12] [Server thread/INFO]: [RABIOSA] wendxli has made the advancement [We Need to Go Deeper]
+[05:05:59] [Server thread/INFO]: AnthonyTyH[/100.80.162.79:56092] logged in with entity id 125021 at (-318.69999998807907, 72.0, 1425.4335400562084)
+[05:05:59] [Server thread/INFO]: AnthonyTyH joined the game
+[05:06:36] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Created team [blue]]
+[05:06:53] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Updated the color for team [blue] to dark_blue]
+[05:07:53] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Added [AGUACATERO] AnthonyTyH to team [blue]]
+[05:08:54] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Kicked [AGUACATERO] AnthonyTyH: Kicked by an operator]
+[05:08:54] [Server thread/INFO]: AnthonyTyH lost connection: Kicked by an operator
+[05:08:54] [Server thread/INFO]: [AGUACATERO] AnthonyTyH left the game
+[05:08:59] [Server thread/INFO]: AnthonyTyH[/100.80.162.79:56129] logged in with entity id 126647 at (-414.8017383479627, 66.41999998688698, 1480.443168168875)
+[05:08:59] [Server thread/INFO]: [AGUACATERO] AnthonyTyH joined the game
+[05:09:25] [Server thread/INFO]: [THERIAN] trini fell from a high place
+[05:16:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=236, y=73, z=125} ja{x=152, y=56, z=154}
+[05:16:53] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=236, y=73, z=125} ja{x=152, y=56, z=154}
+[05:17:47] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=236, y=73, z=125} ja{x=51, y=76, z=200}
+[05:22:41] [Server thread/INFO]: [MR.SIDA] Jonazan06 has made the advancement [Take Aim]
+[05:24:48] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-333, y=58, z=1290} ja{x=-333, y=57, z=1290}
+[05:24:48] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-333, y=58, z=1290} ja{x=-333, y=57, z=1290}
+[05:24:48] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-333, y=58, z=1290} ja{x=-333, y=57, z=1290}
+[05:27:37] [Server thread/INFO]: [THERIAN] trini was shot by Skeleton
+[05:44:59] [Server thread/INFO]: [THERIAN] trini fell from a high place
+[05:57:55] [Server thread/INFO]: [THERIAN] trini fell from a high place
+[06:00:56] [Server thread/INFO]: [MR.SIDA] Jonazan06 was impaled on a stalagmite while fighting Skeleton
+[06:02:13] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Teleported [MR.SIDA] Jonazan06 to [CHICKENLIRUL] VERGAMOTA]
+[06:02:14] [Server thread/INFO]: [AGUACATERO] AnthonyTyH was impaled on a stalagmite while fighting Skeleton
+[06:02:36] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Teleported [MR.SIDA] Jonazan06 to [AGUACATERO] AnthonyTyH]
+[06:03:03] [Server thread/INFO]: [MR.SIDA] Jonazan06 has made the advancement [Cover Me with Diamonds]
+[06:03:45] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Teleported [AGUACATERO] AnthonyTyH to [MR.SIDA] Jonazan06]
+[06:06:38] [Server thread/INFO]: [THERIAN] trini fell from a high place
+[06:20:55] [Server thread/INFO]: [THERIAN] trini fell from a high place
+[06:25:16] [Server thread/INFO]: Javier6712[/100.106.11.52:52745] logged in with entity id 169428 at (-402.0059808197052, 69.0, 1317.3719107525062)
+[06:25:16] [Server thread/INFO]: Javier6712 joined the game
+[06:26:08] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Created team [black]]
+[06:26:38] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Updated the color for team [black] to black]
+[06:27:16] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Added [AUTISTA] Javier6712 to team [black]]
+[06:41:54] [Server thread/INFO]: [THERIAN] trini was shot by Skeleton
+[06:42:34] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Teleported [THERIAN] trini to [RABIOSA] wendxli]
+[06:58:55] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Gamerule pvp is now set to: true]
+[07:02:19] [Server thread/WARN]: Player wendxli just tried to change non-editable sign
+[07:06:30] [Server thread/INFO]: Jonazan06 lost connection: Timed out
+[07:06:30] [Server thread/INFO]: [MR.SIDA] Jonazan06 left the game
+[07:06:58] [Server thread/INFO]: [THERIAN] trini fell from a high place
+[07:08:09] [Server thread/INFO]: AnthonyTyH lost connection: Disconnected
+[07:08:09] [Server thread/INFO]: [AGUACATERO] AnthonyTyH left the game
+[07:08:44] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Teleported [THERIAN] trini to [RABIOSA] wendxli]
+[07:09:31] [Server thread/INFO]: [THERIAN] trini was slain by [RABIOSA] wendxli
+[07:09:41] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Teleported [THERIAN] trini to [RABIOSA] wendxli]
+[07:09:48] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Gamerule pvp is now set to: false]
+[07:11:20] [Server thread/INFO]: [THERIAN] trini was blown up by Creeper
+[07:12:02] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Gamerule pvp is now set to: true]
+[07:12:06] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Teleported [THERIAN] trini to [CHICKENLIRUL] VERGAMOTA]
+[07:12:10] [Server thread/INFO]: [THERIAN] trini was slain by [CHICKENLIRUL] VERGAMOTA
+[07:12:12] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Teleported [THERIAN] trini to [CHICKENLIRUL] VERGAMOTA]
+[07:12:16] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Gamerule pvp is now set to: true]
+[07:12:19] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Gamerule pvp is now set to: false]
+[07:13:20] [Server thread/INFO]: [THERIAN] trini was shot by Skeleton
+[07:13:30] [Server thread/INFO]: [[CHICKENLIRUL] VERGAMOTA: Teleported [THERIAN] trini to [CHICKENLIRUL] VERGAMOTA]
+[07:17:13] [Server thread/INFO]: Jonazan06[/100.76.188.5:64782] logged in with entity id 199759 at (-190.64178762928557, -20.0, 933.3246500803847)
+[07:17:13] [Server thread/INFO]: [MR.SIDA] Jonazan06 joined the game
+[07:18:25] [Server thread/INFO]: AnthonyTyH[/100.80.162.79:57696] logged in with entity id 200557 at (-444.906206874772, 64.0, 1355.1675438026016)
+[07:18:25] [Server thread/INFO]: [AGUACATERO] AnthonyTyH joined the game
+[07:43:34] [Server thread/INFO]: [Not Secure] <[AUTISTA] Javier6712> anda buscarte una vida hui
+[07:43:37] [Server thread/INFO]: [Not Secure] <[AUTISTA] Javier6712> de verdad
+[07:44:08] [Server thread/INFO]: [Not Secure] <[AGUACATERO] AnthonyTyH> porque te saliste de la llamada bro
+[07:44:19] [Server thread/INFO]: [Not Secure] <[AGUACATERO] AnthonyTyH> ma para que se te sea mas easy
+[07:44:22] [Server thread/INFO]: [Not Secure] <[AUTISTA] Javier6712> que te valga vrfga anda a buscar qn te pia
+[07:44:25] [Server thread/INFO]: [Not Secure] <[AUTISTA] Javier6712> pisa
+[07:44:28] [Server thread/INFO]: [Not Secure] <[AGUACATERO] AnthonyTyH> mira la mierda que te estoy dando
+[07:44:30] [Server thread/INFO]: [Not Secure] <[AGUACATERO] AnthonyTyH> pendejo
+[07:44:35] [Server thread/INFO]: [Not Secure] <[AUTISTA] Javier6712> m vlv
+[07:44:46] [Server thread/INFO]: [Not Secure] <[AGUACATERO] AnthonyTyH> cerote mal agradecido
+[07:44:55] [Server thread/INFO]: [Not Secure] <[MR.SIDA] Jonazan06> SEXOOOOOOOOOO
+[07:44:59] [Server thread/INFO]: [Not Secure] <[AGUACATERO] AnthonyTyH> anal
+[07:45:18] [Server thread/INFO]: [Not Secure] <[MR.SIDA] Jonazan06> QUE VIVA TODO LO QUE TENGA QUE VER CON ANOS
+[07:45:27] [Server thread/INFO]: [Not Secure] <[AGUACATERO] AnthonyTyH> amen
+[07:45:46] [Server thread/INFO]: [Not Secure] <[MR.SIDA] Jonazan06> vos no, estas pequeño
+[07:45:58] [Server thread/INFO]: [Not Secure] <[AGUACATERO] AnthonyTyH> pequeña tengo la mona
+[07:45:59] [Server thread/INFO]: [Not Secure] <[AGUACATERO] AnthonyTyH> no
+[07:51:29] [Server thread/INFO]: [AUTISTA] Javier6712 was blown up by Creeper
+[07:52:58] [Server thread/INFO]: VERGAMOTA lost connection: Disconnected
+[07:52:58] [Server thread/INFO]: [CHICKENLIRUL] VERGAMOTA left the game
+[07:53:01] [Server thread/INFO]: VERGAMOTA[/100.108.233.61:64730] logged in with entity id 222580 at (-344.2803638705539, 107.0, 1301.4906574738184)
+[07:53:01] [Server thread/INFO]: [CHICKENLIRUL] VERGAMOTA joined the game
+[08:01:59] [Server thread/INFO]: [THERIAN] trini was shot by Skeleton
+[08:04:50] [Server thread/INFO]: AnthonyTyH lost connection: Disconnected
+[08:04:50] [Server thread/INFO]: [AGUACATERO] AnthonyTyH left the game
+[08:05:59] [Server thread/INFO]: Jonazan06 lost connection: Disconnected
+[08:05:59] [Server thread/INFO]: [MR.SIDA] Jonazan06 left the game
+[08:07:49] [Server thread/INFO]: Jonazan06[/100.76.188.5:50564] logged in with entity id 232025 at (-156.70042644265155, 124.0, 1494.0709698799762)
+[08:07:49] [Server thread/INFO]: [MR.SIDA] Jonazan06 joined the game
+[08:07:56] [Server thread/INFO]: [THERIAN] trini fell from a high place
+[08:13:32] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-100, y=87, z=1399} ja{x=-100, y=86, z=1399}
+[08:26:50] [Server thread/INFO]: wendxli lost connection: Disconnected
+[08:26:50] [Server thread/INFO]: [RABIOSA] wendxli left the game
+[08:27:26] [Server thread/INFO]: VERGAMOTA lost connection: Disconnected
+[08:27:26] [Server thread/INFO]: [CHICKENLIRUL] VERGAMOTA left the game
+[08:27:31] [Server thread/INFO]: Javier6712 lost connection: Disconnected
+[08:27:31] [Server thread/INFO]: [AUTISTA] Javier6712 left the game
+[08:27:42] [Server thread/INFO]: Jonazan06 lost connection: Disconnected
+[08:27:42] [Server thread/INFO]: [MR.SIDA] Jonazan06 left the game
+[08:28:37] [Server thread/INFO]: trini lost connection: Disconnected
+[08:28:37] [Server thread/INFO]: [THERIAN] trini left the game
